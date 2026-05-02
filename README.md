@@ -96,18 +96,19 @@ Next.js • Node.js • MongoDB • Express.js
 
 ## 📫 Contact Me
 
-<p>
-  <a href="mailto:engr.mdshahid@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<p align="left">
+
+  <a href="mailto:engr.mdshahid@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="18" />
+    <b></b>engr.mdshahid@gmail.com
+  </a>
+  <br><br>
+
+  <a href="https://wa.me/8801757920728" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="18" />
+    <b></b>Click to chat
   </a>
 
-  <a href="tel:+8801757920728">
-    <img src="https://img.shields.io/badge/Call-Phone-blue?style=for-the-badge&logo=phone&logoColor=white" />
-  </a>
-
-  <a href="https://wa.me/8801757920728">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
 </p>
 
 ---
