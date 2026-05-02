@@ -1,59 +1,48 @@
-# Hi there 👋 I'm Md. Sajal Chowdhury
+# 👋 Hi, I'm Md. Shahid Chowdhury
 
-### Frontend Developer | React.js Developer | Freelance Web Specialist
+### 💻 Frontend Developer | React.js Developer | Freelance Web Specialist
 
-Passionate about creating modern, responsive, and user-friendly websites.  
-Focused on helping businesses grow through clean design, fast performance, and professional web solutions.
+🚀 I build modern, responsive, and user-friendly websites that help businesses grow.
+💡 Focused on clean UI, fast performance, and client satisfaction.
 
 ---
 
 ## 🚀 About Me
 
-🔭 Currently working on responsive frontend projects and portfolio websites  
-🌱 Currently learning React.js, Next.js, API integration, and MERN Stack  
-👯 Open to collaborating on freelance projects and open-source work  
-🤝 Looking for opportunities on Fiverr, Upwork, and remote jobs  
-💬 Ask me about HTML, CSS, JavaScript, React.js, Tailwind CSS  
-⚡ Fun fact: I enjoy turning ideas into beautiful live websites
+* 🔭 Currently working on **real-world frontend & client projects**
+* 🌱 Learning **React.js, Next.js, API Integration & MERN Stack**
+* 👯 Open to **freelance & remote collaboration**
+* 🤝 Looking for **international clients (Fiverr & Upwork)**
+* 💬 Ask me about **HTML, CSS, JavaScript, React.js, Tailwind CSS**
+* ⚡ Fun fact: *I turn ideas into live websites*
 
 ---
 
 ## 💼 Freelance Services
 
-✔️ Landing Page Development  
-✔️ Business Website Design  
-✔️ React.js Frontend Development  
-✔️ Website Redesign  
-✔️ Bug Fixing & Responsive Fixes  
-✔️ PSD / Figma / XD to HTML  
-✔️ Speed Optimisation  
+✔️ Landing Page Development
+✔️ Business Website Design
+✔️ React.js Frontend Development
+✔️ Website Redesign
+✔️ Bug Fixing & Responsive Fixes
+✔️ Figma / PSD / XD to HTML
+✔️ Speed Optimisation
 
 ---
 
 ## 🛠️ Skills
 
-### Frontend
-HTML5 | CSS3 | JavaScript | React.js | Tailwind CSS | Bootstrap
+### 🎨 Frontend
 
-### Tools
-Git | GitHub | VS Code | Chrome DevTools | Figma
+HTML5 • CSS3 • JavaScript • React.js • Tailwind CSS • Bootstrap
 
-### Learning
-Next.js | Node.js | MongoDB | Express.js
+### ⚙️ Tools
 
----
+Git • GitHub • VS Code • Chrome DevTools • Figma
 
-## 🌍 Freelance Platforms
+### 📚 Currently Learning
 
-🔹 Available for work on Fiverr  
-🔹 Available for work on Upwork  
-🔹 Open for Long-Term Remote Projects
-
----
-
-## 📫 Contact Me
-
-📧 engr.mdshahid@gmail.com
+Next.js • Node.js • MongoDB • Express.js
 
 ---
 
@@ -75,20 +64,51 @@ Next.js | Node.js | MongoDB | Express.js
   <a href="https://www.upwork.com/freelancers/your-id" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork" />
   </a>
+</p>
 
-  <a href="mailto:your-engr.mdshahid@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📈 Goals for 2026
 
-✅ Build a strong portfolio  
-✅ Get first 10 international clients  
-✅ Become a top-rated freelancer  
-✅ Master MERN Stack Development
+🎯 Get first **10+ international clients**
+🎯 Build a strong **portfolio website**
+🎯 Become **Top Rated Freelancer**
+🎯 Master **MERN Stack Development**
+
+---
+
+## 💼 Availability
+
+💼 Available for a full-time job
+🌍 Available for freelance work | Open to remote opportunities
+⚡ Fast response & client-friendly communication
+
+---
+
+## 📫 Contact Me
+
+<p>
+  <a href="mailto:engr.mdshahid@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="tel:+8801757920728">
+    <img src="https://img.shields.io/badge/Call-Phone-blue?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/8801757920728">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
 ---
 
