@@ -2,7 +2,7 @@
 
 ### 💻 Frontend Developer | React.js Developer | Freelance Web Specialist
 
-🚀 I build modern, responsive, and user-friendly websites that help businesses grow.
+🚀 I build modern, responsive, and user-friendly websites that help businesses grow.  
 💡 Focused on clean UI, fast performance, and client satisfaction.
 
 ---
@@ -20,12 +20,12 @@
 
 ## 💼 Freelance Services
 
-✔️ Landing Page Development
-✔️ Business Website Design
-✔️ React.js Frontend Development
-✔️ Website Redesign
-✔️ Bug Fixing & Responsive Fixes
-✔️ Figma / PSD / XD to HTML
+✔️ Landing Page Development  
+✔️ Business Website Design  
+✔️ React.js Frontend Development  
+✔️ Website Redesign  
+✔️ Bug Fixing & Responsive Fixes  
+✔️ Figma / PSD / XD to HTML  
 ✔️ Speed Optimisation
 
 ---
@@ -71,25 +71,25 @@ Next.js • Node.js • MongoDB • Express.js
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahidchowdhurydev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidchowdhurydev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📈 Goals for 2026
 
-🎯 Get first **10+ international clients**
-🎯 Build a strong **portfolio website**
-🎯 Become **Top Rated Freelancer**
+🎯 Get first **10+ international clients**  
+🎯 Build a strong **portfolio website**  
+🎯 Become **Top Rated Freelancer**  
 🎯 Master **MERN Stack Development**
 
 ---
 
 ## 💼 Availability
 
-💼 Available for a full-time job
-🌍 Available for freelance work | Open to remote opportunities
+💼 Available for a full-time job  
+🌍 Available for freelance work | Open to remote opportunities  
 ⚡ Fast response & client-friendly communication
 
 ---
