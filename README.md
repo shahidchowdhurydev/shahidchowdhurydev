@@ -49,19 +49,19 @@ Next.js • Node.js • MongoDB • Express.js
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shahidchowdhurydev/" target="_blank">
+  <a href="https://www.linkedin.com/in/shahidchowdhurydev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   
-  <a href="https://github.com/shahidchowdhurydev/" target="_blank">
+  <a href="https://github.com/shahidchowdhurydev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="https://www.fiverr.com/shahidchowdhurydev/" target="_blank">
+  <a href="https://www.fiverr.com/mdshahiddev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr" />
   </a>
 
-  <a href="https://www.upwork.com/freelancers/your-id" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~0161121aa3a6f7683e" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork" />
   </a>
 </p>
