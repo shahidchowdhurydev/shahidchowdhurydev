@@ -57,6 +57,10 @@ Next.js • Node.js • MongoDB • Express.js
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 
+  <a href="https://www.behance.net/shahidchowdhurydev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance" />
+  </a>
+
   <a href="https://www.fiverr.com/mdshahiddev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr" />
   </a>
