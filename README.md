@@ -75,15 +75,6 @@ Next.js • Node.js • MongoDB • Express.js
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahidchowdhurydev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=shahidchowdhurydev&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📈 Goals for 2026
 
 🎯 Get first **10+ international clients**  
