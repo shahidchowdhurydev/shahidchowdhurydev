@@ -9,12 +9,15 @@
 
 ## 🚀 About Me
 
-* 🔭 Currently working on **real-world frontend & client projects**
-* 🌱 Learning **React.js, Next.js, API Integration & MERN Stack**
-* 👯 Open to **freelance & remote collaboration**
-* 🤝 Looking for **international clients (Fiverr & Upwork)**
-* 💬 Ask me about **HTML, CSS, JavaScript, React.js, Tailwind CSS**
-* ⚡ Fun fact: *I turn ideas into live websites*
+💻 Software Developer with 8+ years of professional experience in software development and EdTech solutions
+🔭 Currently working on real-world web, frontend & software development projects
+🌱 Currently strengthening React.js, Next.js, API Integration & MERN Stack
+🛠️ Experienced with JavaScript, HTML5, CSS3, Adobe Animate, ActionScript 3.0 & OOP
+🤝 Open to full-time, remote & freelance opportunities
+🌍 Interested in working with local and international clients & development teams
+💼 Open to Software Developer, Frontend Developer & IT-related opportunities
+🤖 Exploring Generative AI, AI-assisted development & modern software engineering tools
+⚡ I turn ideas into practical, user-focused digital solutions.
 
 ---
 
