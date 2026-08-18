@@ -9,14 +9,14 @@
 
 ## 🚀 About Me
 
-💻 Software Developer with 8+ years of professional experience in software development and EdTech solutions
-🔭 Currently working on real-world web, frontend & software development projects
-🌱 Currently strengthening React.js, Next.js, API Integration & MERN Stack
-🛠️ Experienced with JavaScript, HTML5, CSS3, Adobe Animate, ActionScript 3.0 & OOP
-🤝 Open to full-time, remote & freelance opportunities
-🌍 Interested in working with local and international clients & development teams
-💼 Open to Software Developer, Frontend Developer & IT-related opportunities
-🤖 Exploring Generative AI, AI-assisted development & modern software engineering tools
+💻 Software Developer with 8+ years of professional experience in software development and EdTech solutions. <br>
+🔭 Currently working on real-world web, frontend & software development projects. <br>
+🌱 Currently strengthening React.js, Next.js, API Integration & MERN Stack. <br>
+🛠️ Experienced with JavaScript, HTML5, CSS3, Adobe Animate, ActionScript 3.0 & OOP. <br>
+🤝 Open to full-time, remote & freelance opportunities. <br>
+🌍 Interested in working with local and international clients & development teams. <br>
+💼 Open to Software Developer, Frontend Developer & IT-related opportunities. <br>
+🤖 Exploring Generative AI, AI-assisted development & modern software engineering tools. <br>
 ⚡ I turn ideas into practical, user-focused digital solutions.
 
 ---
@@ -95,9 +95,10 @@ Next.js • Node.js • MongoDB • Express.js
 
 ## 💼 Availability
 
-💼 Available for a full-time job  
-🌍 Available for freelance work | Open to remote opportunities  
-⚡ Fast response & client-friendly communication
+💼 Open to full-time Software Developer & IT opportunities <br>
+🌍 Open to remote, hybrid & onsite opportunities <br>
+🤝 Available for freelance projects with local & international clients <br>
+⚡ Responsive, reliable & client-focused communication <br>
 
 ---
 
